@@ -1,0 +1,10 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Local git-stored issue tracker worktree
+/issues/
+
+# Logs & temp files
+*.log
+*.tmp
