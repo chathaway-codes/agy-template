@@ -8,3 +8,6 @@ __pycache__/
 # Logs & temp files
 *.log
 *.tmp
+
+# Antigravity system skills injected by runtime
+/skills/

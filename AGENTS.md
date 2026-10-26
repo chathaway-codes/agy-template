@@ -28,3 +28,7 @@ IMPORTANT: perform the following setup tasks, and remove this from this section 
 ## Quality & Verification
 - Unverified code is broken code.
 - Operational workflows and test suites are encapsulated in workspace skills (see `.agents/skills/qa`). Always verify changes using the project `Makefile`.
+- Once QA passes, changes undergo multi-agent code review across 5 dimensions (see `.agents/skills/code-review`).
+
+## Language Best Practices & Conventions
+<!-- Document language-specific idioms and conventions agreed upon with the user during code reviews -->
